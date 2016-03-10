@@ -56,7 +56,7 @@ SPNE and SPNE path
 ----------
 The expression in (1) and (2) together constitute the SPNE of the game. On the SPNE path: $q_2^* = \frac{1}{6}(a + 3c_1 - 5c_2 + c_3)$, $q_3^* = \frac{1}{6}(a + 3c_1 + c_2 - 5c_3)$ and so $Q_a^* = q_1^* + q_2^* + q_3^* = \frac{1}{6}(5a - 3c_1 - c_2 - c_3)$.
 
-Thanks to
+Thanks to...
 ----------
 ![Heinrich von Stackelberg](images/Heinrich_von_stackelberg.gif "Heinrich von Stackelberg")
 
